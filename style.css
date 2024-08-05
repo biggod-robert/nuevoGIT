@@ -3,6 +3,11 @@ body {
     color: white;
 }
 
+.contenedorDeCajas {
+    background-color: antiquewhite;
+    color: black;
+}
+
 main.container {
 
     display: flex;
